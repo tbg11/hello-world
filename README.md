@@ -1,2 +1,5 @@
 # hello-world
-hello-world project
+
+Hey all.
+
+My name is Thab and I'm just starting out on my programming journey. 
